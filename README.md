@@ -195,24 +195,4 @@ Global Flags:
       --vvv                    trace mode
 ```
 
-### License
-
-This Software is available under two different licenses, the open-source **MIT** license with limited support / best-effort updates and a **PRO** license with professional support and scheduled updates. The professional license is meant for businesses such as dapps, marketplaces, staking services, wallet providers, exchanges, asset issuers, and auditors who would like to use this software for their internal operations or bundle it with their commercial services.
-
-The PRO licenses helps us pay for software updates and maintenance and operate the free community services on tzstats.com.
-
-The following table may help you pick the right license for your intended use-case. If in doubt, send an email to license@blockwatch.cc and we'll get back to you.
-
-
-| | MIT | PRO |
-|-|---------------|----------------|
-| Costs | Free | Subscription |
-| Type | Perpetual | Perpetual |
-| Use | Any | Commercial Use |
-| Mode | Light-only | Light/Full |
-| Limitations | - | See Agreement |
-| Support | Best effort | Commercial Support Available |
-| Protocol Upgrade Availability | Best-effort | Early |
-| RPC Proxy | No | Available |
-| QA Tools | No | Available |
 
