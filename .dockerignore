@@ -1,0 +1,8 @@
+db/
+docs/
+*.db
+*.log
+*backup
+tzindex
+tzalias
+tztop
